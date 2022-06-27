@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mahesh S",
+      "cardNumber": "XXXX-XXXX-XXXX-5039",
+      "cardType": "Visa"
+    },
+    {
+      "id": 2,
+      "name": "Niranjan H",
+      "cardNumber": "XXXX-XXXX-XXXX-4859",
+      "cardType": "Master"
+    },
+    {
+      "id": 3,
+      "name": "Omprakash K",
+      "cardNumber": "XXXX-XXXX-XXXX-2345",
+      "cardType": "Visa"
+    }
+  ]
+}
